@@ -18,6 +18,6 @@ Artificial Intelligence And Data Science Student
 
 
 ## Connect with me 📬
-<img width="48" height="48" src="https://img.icons8.com/fluency/48/instagram-new.png" alt="instagram-new"/>
+<a href="https://instagram.com/mrlonely_boy_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mrlonely_boy_" height="50" width="50" /></a>
 
 
