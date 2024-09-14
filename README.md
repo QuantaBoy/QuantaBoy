@@ -17,6 +17,8 @@ Artificial Intelligence And Data Science Student
 ### 🖥️ WorkSpace Spec
 
 <img width="50" height="50" src="https://img.icons8.com/color/50/nvidia.png" alt="nvidia"/>
+<img width="50" height="50" src="https://img.icons8.com/ios-filled/50/amd.png" alt="amd"/>
+<img width="48" height="48" src="https://img.icons8.com/material/48/amd-ryzen.png" alt="amd-ryzen"/>
 
 ![QuantaBoy GitHub stats](https://github-readme-stats.vercel.app/api?username=quantaboy&theme=dark&show_icons=true&&hide-issues,contribs)
 
