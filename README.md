@@ -1,5 +1,5 @@
-Hey👋🏻Its Mohd Riyan
----
+## Hey👋🏻Its Mohd Riyan
+
 Artificial Intelligence And Data Science Student
 - 🔭 Here's My Portfolio
 - 👀 I’m interested in Research and Development In Physics
@@ -10,7 +10,10 @@ Artificial Intelligence And Data Science Student
 - ⚡ Fun fact:🚀I'm either thinking of *New Ideas* or reading about *Quantum Physics*
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+<p align="left"> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="50" height="50"/> </a> </p>
+
+### IDE and Tools I Use
+<img width="50" height="50" src="https://img.icons8.com/color/50/visual-studio-code-2019.png" alt="visual-studio-code-2019"/>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
