@@ -1,6 +1,6 @@
-#Hey👋🏻Its Mohd Riyan
+Hey👋🏻Its Mohd Riyan
 ---
-##Artificial Intelligence And Data Science Student
+Artificial Intelligence And Data Science Student
 - 🔭 Here's My Portfolio
 - 👀 I’m interested in Research and Development In Ai
 - 🌱 I’m currently learning C++
