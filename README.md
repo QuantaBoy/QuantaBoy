@@ -1,12 +1,14 @@
 ## Hey👋🏻Its Mohd Riyan
 
 Artificial Intelligence And Data Science Student
+<img align ="right" alt = "coding" width = "400" src = https://github.com/user-attachments/assets/c5b74ff2-2c13-4c2e-8b93-3a1643cc31e8/>
 - 🔭 Here's My Portfolio
 - 👀 I’m interested in Research and Development In Physics
 - 🌱 I’m currently learning C++
 - 💞️ I’m looking to collaborate on Scientific or Quantum Computing
 - 😄 Pronouns:*Quanta Boy*
 - ⚡ Fun fact:🚀I'm either thinking of *New Ideas* or reading about *Quantum Physics*
+
 
 <h3 align="left">Languages</h3>
 <p align="left"> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="50" height="50"/> </a> </p>
