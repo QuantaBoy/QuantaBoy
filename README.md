@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/acbe1161-d694-42ab-a83a-0502c6f06dd2)Hey👋🏻Its Mohd Riyan
+Hey👋🏻Its Mohd Riyan
 ---
 Artificial Intelligence And Data Science Student
 - 🔭 Here's My Portfolio
