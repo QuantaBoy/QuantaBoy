@@ -1,4 +1,4 @@
-## Hey👋🏻Its Mohd Riyan
+f## Hey👋🏻Its Mohd Riyan
 
 Artificial Intelligence And Data Science Student
 - 🔭 Here's My Portfolio
@@ -18,7 +18,7 @@ Artificial Intelligence And Data Science Student
 
 <img width="50" height="50" src="https://img.icons8.com/color/50/nvidia.png" alt="nvidia"/>
 
-![QuantaBoy GitHub stats](https://github-readme-stats.vercel.app/api?username=quantaboy&theme-dark&show_icons=true&hide-issues,contribs)
+![QuantaBoy GitHub stats](https://github-readme-stats.vercel.app/api?username=quantaboy&theme=dark&show_icons=true&&hide-issues,contribs)
 
 [![QuantaBoy github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=QuantaBoy&bg_color=000000&color=ffffff&line=51f565&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
