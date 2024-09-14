@@ -18,6 +18,6 @@ Artificial Intelligence And Data Science Student
 
 
 ## Connect with me 📬
-
+<img width="48" height="48" src="https://img.icons8.com/fluency/48/instagram-new.png" alt="instagram-new"/>
 
 
