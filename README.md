@@ -8,6 +8,13 @@ Artificial Intelligence And Data Science Student
 - 💞️ I’m looking to collaborate on Scientific or Quantum Computing
 - 😄 Pronouns:*Quanta Boy*
 - ⚡ Fun fact:🚀I'm either thinking of *New Ideas* or reading about *Quantum Physics*
+- ![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UCjABCJfljMTIK4RYiGzdIMA)
+- ![GitHub followers](https://img.shields.io/github/followers/QuantaBoy)
+- ![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCjABCJfljMTIK4RYiGzdIMA)
+
+
+
+
 
 
 <h3 align="left">Languages</h3>
