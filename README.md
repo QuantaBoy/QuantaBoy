@@ -15,6 +15,7 @@ Artificial Intelligence And Data Science Student
 
 ### IDE and Tools I Use
 <img width="50" height="50" src="https://img.icons8.com/color/50/visual-studio-code-2019.png" alt="visual-studio-code-2019"/>  
+
 ### WorkSpace Spec 💻
 
 <img width="50" height="50" src="https://img.icons8.com/color/50/nvidia.png" alt="nvidia"/>   <img width="48" height="48" src="https://img.icons8.com/deco/48/amd.png" alt="amd"/>   <img width="48" height="48" src="https://img.icons8.com/material/48/amd-ryzen.png" alt="amd-ryzen"/>
