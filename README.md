@@ -1,4 +1,4 @@
-# Hey👋🏻Its Mohd Riyan
+## Hey👋🏻Its Mohd Riyan
 
 Artificial Intelligence And Data Science Student
 <img align ="right" alt = "coding" width = "400" src = https://github.com/user-attachments/assets/c5b74ff2-2c13-4c2e-8b93-3a1643cc31e8/>
@@ -14,13 +14,10 @@ Artificial Intelligence And Data Science Student
 <p align="left"> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="50" height="50"/> </a> </p>
 
 ### IDE and Tools I Use
-<img width="50" height="50" src="https://img.icons8.com/color/50/visual-studio-code-2019.png" alt="visual-studio-code-2019"/>
-
+<img width="50" height="50" src="https://img.icons8.com/color/50/visual-studio-code-2019.png" alt="visual-studio-code-2019"/>  
 ### 🖥️ WorkSpace Spec
 
-<img width="50" height="50" src="https://img.icons8.com/color/50/nvidia.png" alt="nvidia"/>
-<img width="48" height="48" src="https://img.icons8.com/deco/48/amd.png" alt="amd"/>
-<img width="48" height="48" src="https://img.icons8.com/material/48/amd-ryzen.png" alt="amd-ryzen"/>
+<img width="50" height="50" src="https://img.icons8.com/color/50/nvidia.png" alt="nvidia"/>   <img width="48" height="48" src="https://img.icons8.com/deco/48/amd.png" alt="amd"/>   <img width="48" height="48" src="https://img.icons8.com/material/48/amd-ryzen.png" alt="amd-ryzen"/>
 
 ![QuantaBoy GitHub stats](https://github-readme-stats.vercel.app/api?username=quantaboy&theme=dark&show_icons=true&&hide-issues,contribs)
 
