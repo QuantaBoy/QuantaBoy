@@ -1,4 +1,4 @@
-## Hey👋🏻Its Mohd Riyan
+# Hey👋🏻Its Mohd Riyan
 
 Artificial Intelligence And Data Science Student
 <img align ="right" alt = "coding" width = "400" src = https://github.com/user-attachments/assets/c5b74ff2-2c13-4c2e-8b93-3a1643cc31e8/>
