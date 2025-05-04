@@ -9,7 +9,6 @@ Artificial Intelligence And Data Science Student
 - ⚙️ Exploring Quantum Computing & Chip Design
 - 💞️ I’m looking to collaborate on Scientific Research or Quantum Computing
 - 😄 Pronouns:*Quanta Boy*
-- ⚡ Fun fact:I'm either thinking of *New Ideas* or reading about *Quantum Physics*🚀
 - ![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UCjABCJfljMTIK4RYiGzdIMA)
 - ![GitHub followers](https://img.shields.io/github/followers/QuantaBoy)
 - ![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCjABCJfljMTIK4RYiGzdIMA)
